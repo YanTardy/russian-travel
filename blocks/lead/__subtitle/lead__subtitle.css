@@ -19,20 +19,17 @@
 @media screen and (max-width: 497px) {
   .lead__subtitle {
     font-size: 20px;
-    margin-top: 16px;
   }  
 }
 
 @media screen and (max-width: 410px) {
   .lead__subtitle {
     font-size: 16px;
-    margin-top: 16px;
   }  
 }
 
 @media screen and (max-width: 308px) {
   .lead__subtitle {
     font-size: 12px;
-    margin-top: 16px;
   }  
 }
